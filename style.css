@@ -1,0 +1,100 @@
+@import url(https://fonts.googleapis.com/css?family=Rancho&effect=shadow-multiple);
+
+body{
+    background: url("Images/marvel-comics-here-come-i11484.jpg");
+    background-attachment: fixed;
+    /* background-size: cover; */
+    padding: 0;
+    margin: 0;
+    height:100%;
+}
+
+.main-header{
+    background-color: rgba(2, 1, 1, 0.603);;
+    background-size: cover;
+    background-position: left 20px;
+
+}
+
+section{
+    background-color: rgba(2, 1, 1, 0.603);;
+    background-size: cover;
+    background-position: left 20px;
+    margin: 200pt
+}
+
+footer{
+    background-color: rgba(2, 1, 1, 0.603);;
+    background-size: cover;
+    background-position: left 20px;
+
+}
+
+nav li{
+    display: inline;
+}
+
+nav a{
+    padding: .5em;
+    color: red;
+    text-decoration: none;
+}
+
+.main-nav{
+    text-align: right;
+    font-size: 1.1em;
+    font-weight: lighter;
+    border-bottom: 1px
+
+}
+div1{
+    text-align: center;
+    font-size: 75px;
+    font-weight:bold;
+    color: red;
+    display: inline;
+
+}
+
+.about-header{
+    text-align: left;
+    color: red;
+    font-size: 50px;
+}
+
+.about-section{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(247, 244, 244)
+
+}
+
+.circle{
+    float: left;
+    margin: 15px;
+    border-radius: 50%;
+}
+.circle-home{
+    float: right;
+    height: 300px;
+    width: 400px;
+    margin: 30px;
+    border-radius: 50%;
+}
+
+.center{
+    text-align: center;
+    background-color: white;
+}
+
+.intro{
+    color: rgb(37, 6, 6);
+    font-size:  50px;
+    font-style: oblique;
+    
+}
+
+.footer-header{
+    color: white;
+    font-size: 30px;
+}
